@@ -9,9 +9,11 @@ div{
 
 /* .yellow y .black son mis selectores de clase */
 .yellow {
-  background-color: yellow;
+  background-color: #FFCC00;
 }
 
 .black{
   background-color: black;
+  color: white;
+  margin: 10px 0 10px;
 }
