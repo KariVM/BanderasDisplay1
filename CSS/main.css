@@ -1,0 +1,17 @@
+/* body sera el color del fondo */
+body{
+  background: white;
+}
+
+div{
+  height: 100px
+}
+
+/* .yellow y .black son mis selectores de clase */
+.yellow {
+  background-color: yellow;
+}
+
+.black{
+  background-color: black;
+}
